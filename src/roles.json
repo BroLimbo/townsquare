@@ -69,7 +69,7 @@
   },
   {
     "id": "fortuneteller",
-    "name": "Fortune Teller",
+    "name": "Voyante",
     "edition": "tb",
     "team": "townsfolk",
     "firstNight": 31,
@@ -95,7 +95,7 @@
   },
   {
     "id": "monk",
-    "name": "Monk",
+    "name": "Moine",
     "edition": "tb",
     "team": "townsfolk",
     "firstNight": 0,
@@ -108,7 +108,7 @@
   },
   {
     "id": "ravenkeeper",
-    "name": "Ravenkeeper",
+    "name": "Gardien",
     "edition": "tb",
     "team": "townsfolk",
     "firstNight": 0,
@@ -121,7 +121,7 @@
   },
   {
     "id": "virgin",
-    "name": "Virgin",
+    "name": "Pucelle",
     "edition": "tb",
     "team": "townsfolk",
     "firstNight": 0,
@@ -134,7 +134,7 @@
   },
   {
     "id": "slayer",
-    "name": "Slayer",
+    "name": "Mercenaire",
     "edition": "tb",
     "team": "townsfolk",
     "firstNight": 0,
@@ -147,7 +147,7 @@
   },
   {
     "id": "soldier",
-    "name": "Soldier",
+    "name": "Soldat",
     "edition": "tb",
     "team": "townsfolk",
     "firstNight": 0,
@@ -160,7 +160,7 @@
   },
   {
     "id": "mayor",
-    "name": "Mayor",
+    "name": "Maire",
     "edition": "tb",
     "team": "townsfolk",
     "firstNight": 0,
@@ -173,7 +173,7 @@
   },
   {
     "id": "butler",
-    "name": "Butler",
+    "name": "Majordome",
     "edition": "tb",
     "team": "outsider",
     "firstNight": 32,
@@ -186,7 +186,7 @@
   },
   {
     "id": "drunk",
-    "name": "Drunk",
+    "name": "Soulard",
     "edition": "tb",
     "team": "outsider",
     "firstNight": 0,
@@ -200,7 +200,7 @@
   },
   {
     "id": "recluse",
-    "name": "Recluse",
+    "name": "Reclus",
     "edition": "tb",
     "team": "outsider",
     "firstNight": 0,
@@ -213,7 +213,7 @@
   },
   {
     "id": "saint",
-    "name": "Saint",
+    "name": "Vertueux",
     "edition": "tb",
     "team": "outsider",
     "firstNight": 0,
@@ -226,7 +226,7 @@
   },
   {
     "id": "poisoner",
-    "name": "Poisoner",
+    "name": "Empoisonneur",
     "edition": "tb",
     "team": "minion",
     "firstNight": 14,
@@ -239,7 +239,7 @@
   },
   {
     "id": "spy",
-    "name": "Spy",
+    "name": "Espion",
     "edition": "tb",
     "team": "minion",
     "firstNight": 40,
@@ -252,7 +252,7 @@
   },
   {
     "id": "scarletwoman",
-    "name": "Scarlet Woman",
+    "name": "Croqueuse d'hommes",
     "edition": "tb",
     "team": "minion",
     "firstNight": 0,
@@ -291,7 +291,7 @@
   },
   {
     "id": "bureaucrat",
-    "name": "Bureaucrat",
+    "name": "Bureaucrate",
     "edition": "tb",
     "team": "traveler",
     "firstNight": 1,
@@ -304,7 +304,7 @@
   },
   {
     "id": "thief",
-    "name": "Thief",
+    "name": "Voleur",
     "edition": "tb",
     "team": "traveler",
     "firstNight": 1,
@@ -343,7 +343,7 @@
   },
   {
     "id": "beggar",
-    "name": "Beggar",
+    "name": "Mendiant",
     "edition": "tb",
     "team": "traveler",
     "firstNight": 0,
@@ -356,7 +356,7 @@
   },
   {
     "id": "grandmother",
-    "name": "Grandmother",
+    "name": "Mamie",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 33,
@@ -369,7 +369,7 @@
   },
   {
     "id": "sailor",
-    "name": "Sailor",
+    "name": "Marin",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 9,
@@ -382,7 +382,7 @@
   },
   {
     "id": "chambermaid",
-    "name": "Chambermaid",
+    "name": "Femme de chambre",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 43,
@@ -395,7 +395,7 @@
   },
   {
     "id": "exorcist",
-    "name": "Exorcist",
+    "name": "Exorciste",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -408,7 +408,7 @@
   },
   {
     "id": "innkeeper",
-    "name": "Innkeeper",
+    "name": "Aubergiste",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -422,7 +422,7 @@
   },
   {
     "id": "gambler",
-    "name": "Gambler",
+    "name": "Parieur",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -435,7 +435,7 @@
   },
   {
     "id": "gossip",
-    "name": "Gossip",
+    "name": "Commère",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -448,7 +448,7 @@
   },
   {
     "id": "courtier",
-    "name": "Courtier",
+    "name": "Courtisane",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 16,
@@ -464,7 +464,7 @@
   },
   {
     "id": "professor",
-    "name": "Professor",
+    "name": "Professeur",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -478,7 +478,7 @@
   },
   {
     "id": "minstrel",
-    "name": "Minstrel",
+    "name": "Ménestrel",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -491,7 +491,7 @@
   },
   {
     "id": "tealady",
-    "name": "Tea Lady",
+    "name": "Herboriste",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -504,7 +504,7 @@
   },
   {
     "id": "pacifist",
-    "name": "Pacifist",
+    "name": "Pacifiste",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -517,7 +517,7 @@
   },
   {
     "id": "fool",
-    "name": "Fool",
+    "name": "Fou",
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 0,
@@ -530,7 +530,7 @@
   },
   {
     "id": "tinker",
-    "name": "Tinker",
+    "name": "Inventeur",
     "edition": "bmr",
     "team": "outsider",
     "firstNight": 0,
@@ -543,7 +543,7 @@
   },
   {
     "id": "moonchild",
-    "name": "Moonchild",
+    "name": "Gitane",
     "edition": "bmr",
     "team": "outsider",
     "firstNight": 0,
@@ -556,7 +556,7 @@
   },
   {
     "id": "goon",
-    "name": "Goon",
+    "name": "Brute",
     "edition": "bmr",
     "team": "outsider",
     "firstNight": 0,
@@ -569,7 +569,7 @@
   },
   {
     "id": "lunatic",
-    "name": "Lunatic",
+    "name": "Lunatique",
     "edition": "bmr",
     "team": "outsider",
     "firstNight": 6,
@@ -584,7 +584,7 @@
   },
   {
     "id": "godfather",
-    "name": "Godfather",
+    "name": "Parrain",
     "edition": "bmr",
     "team": "minion",
     "firstNight": 18,
@@ -598,7 +598,7 @@
   },
   {
     "id": "devilsadvocate",
-    "name": "Devil's Advocate",
+    "name": "Avocat du Diable",
     "edition": "bmr",
     "team": "minion",
     "firstNight": 19,
@@ -625,7 +625,7 @@
   },
   {
     "id": "mastermind",
-    "name": "Mastermind",
+    "name": "Conspirateur",
     "edition": "bmr",
     "team": "minion",
     "firstNight": 0,
@@ -694,7 +694,7 @@
   },
   {
     "id": "apprentice",
-    "name": "Apprentice",
+    "name": "Apprenti",
     "edition": "bmr",
     "team": "traveler",
     "firstNight": 1,
@@ -720,7 +720,7 @@
   },
   {
     "id": "judge",
-    "name": "Judge",
+    "name": "Juge",
     "edition": "bmr",
     "team": "traveler",
     "firstNight": 0,
@@ -786,7 +786,7 @@
   },
   {
     "id": "snakecharmer",
-    "name": "Snake Charmer",
+    "name": "Charmeur de serpent",
     "edition": "snv",
     "team": "townsfolk",
     "firstNight": 17,
@@ -799,7 +799,7 @@
   },
   {
     "id": "mathematician",
-    "name": "Mathematician",
+    "name": "Mathematicien",
     "edition": "snv",
     "team": "townsfolk",
     "firstNight": 42,
@@ -826,7 +826,7 @@
   },
   {
     "id": "towncrier",
-    "name": "Town Crier",
+    "name": "Crieur",
     "edition": "snv",
     "team": "townsfolk",
     "firstNight": 0,
@@ -879,7 +879,7 @@
   },
   {
     "id": "philosopher",
-    "name": "Philosopher",
+    "name": "Philosophe",
     "edition": "snv",
     "team": "townsfolk",
     "firstNight": 2,
@@ -893,7 +893,7 @@
   },
   {
     "id": "artist",
-    "name": "Artist",
+    "name": "Artiste",
     "edition": "snv",
     "team": "townsfolk",
     "firstNight": 0,
@@ -932,7 +932,7 @@
   },
   {
     "id": "mutant",
-    "name": "Mutant",
+    "name": "Bête de foire",
     "edition": "snv",
     "team": "outsider",
     "firstNight": 0,
@@ -958,7 +958,7 @@
   },
   {
     "id": "barber",
-    "name": "Barber",
+    "name": "Barbier",
     "edition": "snv",
     "team": "outsider",
     "firstNight": 0,
@@ -997,7 +997,7 @@
   },
   {
     "id": "witch",
-    "name": "Witch",
+    "name": "Sorcière",
     "edition": "snv",
     "team": "minion",
     "firstNight": 21,
@@ -1131,7 +1131,7 @@
   },
   {
     "id": "bonecollector",
-    "name": "Bone Collector",
+    "name": "Collecteur d'os",
     "edition": "snv",
     "team": "traveler",
     "firstNight": 0,
@@ -1158,7 +1158,7 @@
   },
   {
     "id": "bountyhunter",
-    "name": "Bounty Hunter",
+    "name": "Chasseur de primes",
     "edition": "",
     "team": "townsfolk",
     "firstNight": 38,
@@ -1241,7 +1241,7 @@
   },
   {
     "id": "cultleader",
-    "name": "Cult Leader",
+    "name": "Chef de secte",
     "edition": "",
     "team": "townsfolk",
     "firstNight": 39,
@@ -1267,7 +1267,7 @@
   },
   {
     "id": "amnesiac",
-    "name": "Amnesiac",
+    "name": "Amnesique",
     "edition": "",
     "team": "townsfolk",
     "firstNight": 11,
@@ -1280,7 +1280,7 @@
   },
   {
     "id": "fisherman",
-    "name": "Fisherman",
+    "name": "Pêcheur",
     "edition": "",
     "team": "townsfolk",
     "firstNight": 0,
@@ -1319,7 +1319,7 @@
   },
   {
     "id": "cannibal",
-    "name": "Cannibal",
+    "name": "Cannibale",
     "edition": "",
     "team": "townsfolk",
     "firstNight": 0,
@@ -1346,7 +1346,7 @@
   },
   {
     "id": "acrobat",
-    "name": "Acrobat",
+    "name": "Acrobate",
     "edition": "",
     "team": "outsider",
     "firstNight": 0,
@@ -1372,7 +1372,7 @@
   },
   {
     "id": "politician",
-    "name": "Politician",
+    "name": "Politicien",
     "edition": "",
     "team": "outsider",
     "firstNight": 0,
@@ -1385,7 +1385,7 @@
   },
   {
     "id": "widow",
-    "name": "Widow",
+    "name": "Veuve",
     "edition": "",
     "team": "minion",
     "firstNight": 15,
@@ -1440,7 +1440,7 @@
   },
   {
     "id": "lilmonsta",
-    "name": "Lil Monsta",
+    "name": "P'tit monstre",
     "edition": "",
     "team": "demon",
     "firstNight": 13,
