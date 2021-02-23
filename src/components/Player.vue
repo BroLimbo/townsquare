@@ -69,6 +69,12 @@
           title="Swap seats with this player"
         />
         <font-awesome-icon
+          icon="exchange-alt"
+          class="swapRoles"
+          @click="swapRole(player)"
+          title="Swap roles with this player"
+        />
+        <font-awesome-icon
           icon="redo-alt"
           class="move"
           @click="movePlayer(player)"
@@ -577,6 +583,7 @@ export default {
   z-index: 2;
   cursor: pointer;
   &.swap,
+  &.swapRoles,
   &.move,
   &.nominate,
   &.vote,
@@ -628,6 +635,7 @@ li.from:not(.nominate) .player .overlay svg.cancel {
 }
 
 li.swap:not(.from) .player .overlay svg.swap,
+li.swapRoles:not(.from) .player .overlay svg.swapRoles,
 li.nominate .player .overlay svg.nominate,
 li.move:not(.from) .player .overlay svg.move {
   opacity: 1;
