@@ -15,8 +15,9 @@
         :player="player"
         @trigger="handleTrigger(index, $event)"
         :class="{
-          from: Math.max(swap, move, nominate) === index,
+          from: Math.max(swap, swapRoles, move, nominate) === index,
           swap: swap > -1,
+          swapRoles: swapRoles > -1,
           move: move > -1,
           nominate: nominate > -1
         }"
@@ -110,6 +111,7 @@ export default {
       selectedPlayer: 0,
       bluffSize: 3,
       swap: -1,
+      swapRoles: -1,
       move: -1,
       nominate: -1,
       isBluffsOpen: true,
@@ -205,6 +207,18 @@ export default {
         this.cancel();
       }
     },
+    swapRole(from, to) {
+      if (to === undefined) {
+        this.cancel();
+        this.swapRoles = from;
+      } else {
+        this.$store.commit("players/swapRole", [
+          this.swapRoles,
+          this.players.indexOf(to)
+        ]);
+        this.cancel();
+      }
+    },
     movePlayer(from, to) {
       if (this.session.isSpectator || this.session.lockedVote) return;
       if (to === undefined) {
@@ -250,6 +264,7 @@ export default {
     cancel() {
       this.move = -1;
       this.swap = -1;
+      this.swapRoles = -1;
       this.nominate = -1;
     }
   }
