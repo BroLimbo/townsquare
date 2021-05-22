@@ -152,7 +152,7 @@
     "otherNightReminder": "",
     "reminders": [],
     "setup": false,
-    "ability": "Si aucune exécution n'a lieu alors qu’il ne reste que 3 joueurs vivants (dont vous), victoire du village ! Si vous deviez mourir pendant la nuit, un autre joueur pourrait mourir à votre place"
+    "ability": "Si aucune exécution n'a lieu alors qu’il ne reste que 3 joueurs vivants (dont vous), victoire de votre équipe ! ! Si vous deviez mourir pendant la nuit, un autre joueur pourrait mourir à votre place"
   },
   {
     "id": "slayer",
